@@ -2,7 +2,7 @@
 Data Mining Assignment for CMPE 256 at SJSU
 
 Using the demo resources from class,
-LBP Image Analysis will be run on these following images:
+LBP Image Analysis was ran on these following images, and interactive histograms created with Altair:
 
 **SJSU Logo in Color**
 
